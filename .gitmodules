@@ -1050,3 +1050,7 @@
 	path = apertium-kan-mar
 	url = git@github.com:apertium/apertium-kan-mar.git
 	branch = master
+[submodule "apertium-grn-spa"]
+	path = apertium-grn-spa
+	url = git@github.com:apertium/apertium-grn-spa.git
+	branch = master
