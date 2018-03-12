@@ -2,10 +2,6 @@
 	path = apertium-fin-hun
 	url = git@github.com:apertium/apertium-fin-hun.git
 	branch = master
-[submodule "apertium-eng-cat"]
-	path = apertium-eng-cat
-	url = git@github.com:apertium/apertium-eng-cat.git
-	branch = master
 [submodule "apertium-msa"]
 	path = apertium-msa
 	url = git@github.com:apertium/apertium-msa.git
