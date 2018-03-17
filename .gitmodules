@@ -1046,10 +1046,6 @@
 	path = apertium-grn-spa
 	url = git@github.com:apertium/apertium-grn-spa.git
 	branch = master
-[submodule "apertium-ron-cat-tmp"]
-	path = apertium-ron-cat-tmp
-	url = git@github.com:apertium/apertium-ron-cat-tmp.git
-	branch = master
 [submodule "apertium-fin-olo"]
 	path = apertium-fin-olo
 	url = git@github.com:apertium/apertium-fin-olo.git
