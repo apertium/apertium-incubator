@@ -1054,3 +1054,7 @@
 	path = apertium-fin-fra
 	url = git@github.com:apertium/apertium-fin-fra.git
 	branch = master
+[submodule "apertium-uig-tur"]
+	path = apertium-uig-tur
+	url = git@github.com:apertium/apertium-uig-tur.git
+	branch = master
