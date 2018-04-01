@@ -1050,3 +1050,7 @@
 	path = apertium-uig-tur
 	url = git@github.com:apertium/apertium-uig-tur.git
 	branch = master
+[submodule "apertium-urd-pan"]
+	path = apertium-urd-pan
+	url = git@github.com:apertium/apertium-urd-pan.git
+	branch = master
