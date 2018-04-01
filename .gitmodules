@@ -410,10 +410,6 @@
 	path = apertium-eo-hu
 	url = git@github.com:apertium/apertium-eo-hu.git
 	branch = master
-[submodule "apertium-ur-pa"]
-	path = apertium-ur-pa
-	url = git@github.com:apertium/apertium-ur-pa.git
-	branch = master
 [submodule "apertium-krc"]
 	path = apertium-krc
 	url = git@github.com:apertium/apertium-krc.git
@@ -429,10 +425,6 @@
 [submodule "apertium-ain"]
 	path = apertium-ain
 	url = git@github.com:apertium/apertium-ain.git
-	branch = master
-[submodule "apertium-ur-fa"]
-	path = apertium-ur-fa
-	url = git@github.com:apertium/apertium-ur-fa.git
 	branch = master
 [submodule "apertium-mal-eng"]
 	path = apertium-mal-eng
