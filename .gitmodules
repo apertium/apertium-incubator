@@ -18,10 +18,6 @@
 	path = apertium-zul
 	url = git@github.com:apertium/apertium-zul.git
 	branch = master
-[submodule "apertium-cv-ru"]
-	path = apertium-cv-ru
-	url = git@github.com:apertium/apertium-cv-ru.git
-	branch = master
 [submodule "apertium-gld"]
 	path = apertium-gld
 	url = git@github.com:apertium/apertium-gld.git
@@ -1053,4 +1049,8 @@
 [submodule "apertium-urd-pan"]
 	path = apertium-urd-pan
 	url = git@github.com:apertium/apertium-urd-pan.git
+	branch = master
+[submodule "apertium-chv-rus"]
+	path = apertium-chv-rus
+	url = git@github.com:apertium/apertium-chv-rus.git
 	branch = master
