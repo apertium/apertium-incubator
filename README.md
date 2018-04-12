@@ -4,7 +4,7 @@
 translation systems.
 
 This repository holds submodules to Apertium languages, pairs, and other
-modules, that are classified as [incubator][2] modules.
+modules, that are in the [Apertium incubator][2].
 
 To clone this repository with all its submodules, run
 
