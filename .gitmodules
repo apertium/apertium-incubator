@@ -1054,3 +1054,7 @@
 	path = apertium-chv-rus
 	url = git@github.com:apertium/apertium-chv-rus.git
 	branch = master
+[submodule "apertium-fin-kaz"]
+	path = apertium-fin-kaz
+	url = git@github.com:apertium/apertium-fin-kaz.git
+	branch = master
