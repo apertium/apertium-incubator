@@ -294,10 +294,6 @@
 	path = apertium-alt
 	url = git@github.com:apertium/apertium-alt.git
 	branch = master
-[submodule "apertium-br-es"]
-	path = apertium-br-es
-	url = git@github.com:apertium/apertium-br-es.git
-	branch = master
 [submodule "apertium-ron-rup"]
 	path = apertium-ron-rup
 	url = git@github.com:apertium/apertium-ron-rup.git
@@ -794,10 +790,6 @@
 	path = apertium-pl-hsb
 	url = git@github.com:apertium/apertium-pl-hsb.git
 	branch = master
-[submodule "apertium-br-cy"]
-	path = apertium-br-cy
-	url = git@github.com:apertium/apertium-br-cy.git
-	branch = master
 [submodule "apertium-zh_CN-zh_TW"]
 	path = apertium-zh_CN-zh_TW
 	url = git@github.com:apertium/apertium-zh_CN-zh_TW.git
@@ -1057,4 +1049,12 @@
 [submodule "apertium-fin-kaz"]
 	path = apertium-fin-kaz
 	url = git@github.com:apertium/apertium-fin-kaz.git
+	branch = master
+[submodule "apertium-bre-spa"]
+	path = apertium-bre-spa
+	url = git@github.com:apertium/apertium-bre-spa.git
+	branch = master
+[submodule "apertium-bre-cym"]
+	path = apertium-bre-cym
+	url = git@github.com:apertium/apertium-bre-cym.git
 	branch = master
