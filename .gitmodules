@@ -1054,3 +1054,15 @@
 	path = apertium-bre-cym
 	url = git@github.com:apertium/apertium-bre-cym.git
 	branch = master
+[submodule "apertium-btc"]
+	path = apertium-btc
+	url = git@github.com:apertium/apertium-btc.git
+	branch = master
+[submodule "apertium-bas"]
+	path = apertium-bas
+	url = git@github.com:apertium/apertium-bas.git
+	branch = master
+[submodule "apertium-bas-btc"]
+	path = apertium-bas-btc
+	url = git@github.com:apertium/apertium-bas-btc.git
+	branch = master
