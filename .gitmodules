@@ -1066,3 +1066,7 @@
 	path = apertium-bas-btc
 	url = git@github.com:apertium/apertium-bas-btc.git
 	branch = master
+[submodule "apertium-cos-por"]
+	path = apertium-cos-por
+	url = git@github.com:apertium/apertium-cos-por.git
+	branch = master
