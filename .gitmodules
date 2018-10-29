@@ -1070,3 +1070,7 @@
 	path = apertium-cos-por
 	url = git@github.com:apertium/apertium-cos-por.git
 	branch = master
+[submodule "apertium-afr-deu"]
+	path = apertium-afr-deu
+	url = git@github.com:apertium/apertium-afr-deu.git
+	branch = master
