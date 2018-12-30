@@ -350,10 +350,6 @@
 	path = apertium-mfe-en
 	url = git@github.com:apertium/apertium-mfe-en.git
 	branch = master
-[submodule "apertium-yid"]
-	path = apertium-yid
-	url = git@github.com:apertium/apertium-yid.git
-	branch = master
 [submodule "apertium-chv-tat"]
 	path = apertium-chv-tat
 	url = git@github.com:apertium/apertium-chv-tat.git
