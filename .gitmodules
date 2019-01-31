@@ -1070,3 +1070,7 @@
 	path = apertium-afr-deu
 	url = git@github.com:apertium/apertium-afr-deu.git
 	branch = master
+[submodule "apertium-nio"]
+	path = apertium-nio
+	url = git@github.com:apertium/apertium-nio.git
+	branch = master
