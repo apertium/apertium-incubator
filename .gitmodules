@@ -1074,3 +1074,7 @@
 	path = apertium-nio
 	url = git@github.com:apertium/apertium-nio.git
 	branch = master
+[submodule "apertium-fin-rus"]
+	path = apertium-fin-rus
+	url = git@github.com:apertium/apertium-fin-rus.git
+	branch = master
