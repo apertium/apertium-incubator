@@ -1078,3 +1078,11 @@
 	path = apertium-fin-rus
 	url = git@github.com:apertium/apertium-fin-rus.git
 	branch = master
+[submodule "apertium-tat-kaa"]
+	path = apertium-tat-kaa
+	url = git@github.com:apertium/apertium-tat-kaa.git
+	branch = master
+[submodule "apertium-eng-ibo"]
+	path = apertium-eng-ibo
+	url = git@github.com:apertium/apertium-eng-ibo.git
+	branch = master
