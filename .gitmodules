@@ -1086,3 +1086,7 @@
 	path = apertium-eng-ibo
 	url = git@github.com:apertium/apertium-eng-ibo.git
 	branch = master
+[submodule "apertium-eng-kir"]
+	path = apertium-eng-kir
+	url = git@github.com:apertium/apertium-eng-kir.git
+	branch = master
