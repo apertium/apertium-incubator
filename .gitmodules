@@ -718,10 +718,6 @@
 	path = apertium-tha-lao
 	url = git@github.com:apertium/apertium-tha-lao.git
 	branch = master
-[submodule "apertium-por-cat"]
-	path = apertium-por-cat
-	url = git@github.com:apertium/apertium-por-cat.git
-	branch = master
 [submodule "apertium-tel-mar"]
 	path = apertium-tel-mar
 	url = git@github.com:apertium/apertium-tel-mar.git
