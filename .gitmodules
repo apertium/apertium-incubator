@@ -642,10 +642,6 @@
 	path = apertium-eu-eu_bis
 	url = git@github.com:apertium/apertium-eu-eu_bis.git
 	branch = master
-[submodule "apertium-oci-fra"]
-	path = apertium-oci-fra
-	url = git@github.com:apertium/apertium-oci-fra.git
-	branch = master
 [submodule "apertium-bzd"]
 	path = apertium-bzd
 	url = git@github.com:apertium/apertium-bzd.git
