@@ -1086,3 +1086,7 @@
 	path = apertium-fin-krl
 	url = git@github.com:apertium/apertium-fin-krl.git
 	branch = master
+[submodule "apertium-fin-nor"]
+	path = apertium-fin-nor
+	url = git@github.com:apertium/apertium-fin-nor.git
+	branch = master
