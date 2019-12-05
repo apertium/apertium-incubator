@@ -1090,3 +1090,7 @@
 	path = apertium-fin-nor
 	url = git@github.com:apertium/apertium-fin-nor.git
 	branch = master
+[submodule "apertium-spa-lvs"]
+	path = apertium-spa-lvs
+	url = git@github.com:apertium/apertium-spa-lvs.git
+	branch = master
