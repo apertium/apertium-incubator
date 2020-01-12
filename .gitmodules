@@ -1094,3 +1094,7 @@
 	path = apertium-spa-lvs
 	url = git@github.com:apertium/apertium-spa-lvs.git
 	branch = master
+[submodule "apertium-tam-eng"]
+	path = apertium-tam-eng
+	url = git@github.com:apertium/apertium-tam-eng.git
+	branch = master
