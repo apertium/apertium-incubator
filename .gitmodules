@@ -1098,3 +1098,7 @@
 	path = apertium-tam-eng
 	url = git@github.com:apertium/apertium-tam-eng.git
 	branch = master
+[submodule "apertium-ind-eng"]
+	path = apertium-ind-eng
+	url = git@github.com:apertium/apertium-ind-eng.git
+	branch = master
