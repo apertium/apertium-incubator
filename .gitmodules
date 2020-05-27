@@ -1102,3 +1102,7 @@
 	path = apertium-ind-eng
 	url = git@github.com:apertium/apertium-ind-eng.git
 	branch = master
+[submodule "apertium-quc-spa"]
+	path = apertium-quc-spa
+	url = git@github.com:apertium/apertium-quc-spa.git
+	branch = master
