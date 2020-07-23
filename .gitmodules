@@ -1114,3 +1114,7 @@
 	path = apertium-cak
 	url = git@github.com:apertium/apertium-cak.git
 	branch = master
+[submodule "apertium-kok-hin"]
+	path = apertium-kok-hin
+	url = git@github.com:apertium/apertium-kok-hin.git
+	branch = master
